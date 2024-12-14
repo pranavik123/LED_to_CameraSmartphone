@@ -1,0 +1,3 @@
+/Users/pranavikamavarapu/AndroidStudioProjects/ColorCV/OpenCV/.cxx/Debug/2h6y4y1g/x86_64/CMakeFiles/opencv_jni_shared.dir
+/Users/pranavikamavarapu/AndroidStudioProjects/ColorCV/OpenCV/.cxx/Debug/2h6y4y1g/x86_64/CMakeFiles/edit_cache.dir
+/Users/pranavikamavarapu/AndroidStudioProjects/ColorCV/OpenCV/.cxx/Debug/2h6y4y1g/x86_64/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/Users/pranavikamavarapu/AndroidStudioProjects/ColorCV/OpenCV/build/intermediates/cxx/Debug/2h6y4y1g/obj/arm64-v8a
