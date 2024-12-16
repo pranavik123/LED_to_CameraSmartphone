@@ -1,3 +1,4 @@
+//Authors: Pranavi Kamavarapu, Venkata Naga Sai Tejawsini
 package com.example.colorcv
 
 import org.opencv.android.Utils
