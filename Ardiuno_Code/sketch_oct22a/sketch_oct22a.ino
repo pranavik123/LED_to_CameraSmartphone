@@ -1,3 +1,5 @@
+//Authors : Pranavi Kamavarapu, Venkata Naga Sai Tejaswini Samala
+
 const int redPin = 9;
 const int greenPin = 10;
 const int bluePin = 11;
